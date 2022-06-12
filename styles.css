@@ -1,0 +1,21 @@
+.box{
+  height:200px;
+  width:200px;
+border: solid 1px #000;
+margin-bottom:10px;
+}
+.toRed{
+  background-color: red;
+}
+.toBlue{
+  background-color:blue;
+}
+.toGreen{
+  background-color:green;
+}
+.hideIt{
+  display: none;
+}
+.showIt{
+  display: block;
+}
